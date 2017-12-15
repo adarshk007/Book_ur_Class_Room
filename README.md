@@ -9,8 +9,11 @@ Deepanshu Kumain
 
 <br>
 <br>
-<h4>Description<h4>
+<p align="center">
+ <b>Description</b>
+  </p>
 
+-----------------------------------------------------------------------------------------------------------------------------
 This is a UI/UX designed for Universities to Book class rooms, check availability of classrooms and many more functionalities.
 
 <br>
@@ -60,6 +63,8 @@ This is a UI/UX designed for Universities to Book class rooms, check availabilit
 <p align="center">
  <b>Screenshots</b>
   </p>
+
+-----------------------------------------------------------------------------------------------------------------------------  
   <br>
 <p>
 <img src="https://user-images.githubusercontent.com/23396919/34052849-2659053e-e1ea-11e7-8768-cf3fe6f89e80.jpg" width="410" ></img> 

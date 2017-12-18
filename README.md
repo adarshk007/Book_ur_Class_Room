@@ -1,10 +1,12 @@
 # Book_ur_Class_Room
 
 **DEVELOPERS** 
-```
-Adarsh Kumar 
-Deepanshu Kumain
-```
+<pre>
+<p>
+ <a href="https://github.com/adarshk007">
+  <img src="https://user-images.githubusercontent.com/23396919/34082443-a30c8484-e384-11e7-915f-73f53cb83252.jpeg" width="50"></img></a>    <a href="https://github.com/Deepkumai">  <img src="https://user-images.githubusercontent.com/23396919/34113733-a9247ce8-e436-11e7-8869-64c560aef13d.jpeg" width="60" height="65"></img></a>
+</p>
+</pre>
 **LANGUAGE :** JAVA
 
 <br>
